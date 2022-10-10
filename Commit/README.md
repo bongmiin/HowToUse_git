@@ -119,7 +119,7 @@
 
 - git log : 커밋 히스토리를 출력
 
-- git log --pretty=oneline : --pretty 옵션을 사용하면 커밋 히스토리를 다양한 방식으로 출력할 수 있습니다. --pretty 옵션에 oneline이라는 값을 주면 커밋 하나당 한 줄씩 출력해줍니다. --pretty 옵션에 대해 더 자세히 알고싶으면 [이 링크]{https://git-scm.com/docs/pretty-formats} 를 참고하세요. 
+- git log --pretty=oneline : --pretty 옵션을 사용하면 커밋 히스토리를 다양한 방식으로 출력할 수 있습니다. --pretty 옵션에 oneline이라는 값을 주면 커밋 하나당 한 줄씩 출력해줍니다. --pretty 옵션에 대해 더 자세히 알고싶으면 [이 링크](https://git-scm.com/docs/pretty-formats) 를 참고하세요. 
 
 - git show [커밋 아이디] : 특정 커밋에서 어떤 변경사항이 있었는지 확인
 
